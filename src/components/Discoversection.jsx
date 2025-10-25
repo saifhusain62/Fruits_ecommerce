@@ -50,7 +50,7 @@ const DiscoverSection = () => {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="text-gray-900 font-bold text-lg mb-1">Experienced Chefs</h3>
+                  <h3 className="text-gray-900 font-bold text-lg mb-1">Experienced Chefs.</h3>
                   <p className="text-gray-600 text-sm">Our team of professional chefs has years of culinary expertise and passion.</p>
                 </div>
               </div>
