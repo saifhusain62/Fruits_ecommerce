@@ -26,8 +26,8 @@ function About() {
           <div className="container max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="row">
               <div className="col-xl-12">
-                <div className="hero-cap hero-cap2 text-center">
-                  <h2 className="text-5xl font-bold text-white">About US</h2>
+                <div className="hero-cap hero-cap2 text-center mx-auto">
+                  <h2 className="text-5xl font-bold text-white pt-28">About US</h2>
                 </div>
               </div>
             </div>
