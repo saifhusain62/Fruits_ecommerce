@@ -232,7 +232,7 @@ function About() {
                     <a href="#" className="hover:text-yellow-600 transition-colors duration-300">Perfect Cook</a>
                   </h5>
                   <p className="text-gray-600 leading-relaxed">
-                    Lorem ipsum dolor sit ameit, consectetur aplilish elit, sed do eiusmod tempor incididunt ut labore et dolore.
+                    Lorem ipsum dolor sit ameit, constructor aplilish elit, sed do eiusmod tempor incididunt ut labore et dolore.
                   </p>
                 </div>
               </div>
