@@ -1,10 +1,11 @@
 import React from 'react'
+import Aboutcomp from '../components/aboutcomp.jsx'    
 
 function About() {
   return (
     <div>
-      This is About Page
-    </div>
+      <Aboutcomp/>   
+       </div>
   )
 }
 
