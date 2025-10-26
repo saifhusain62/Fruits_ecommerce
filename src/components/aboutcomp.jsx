@@ -38,7 +38,7 @@ function About() {
       {/* About Our Restaurant Section */}
       <section className="about-area2 py-20">
         <div className="container max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="row align-items-center flex flex-col lg:flex-row items-center">
+          <div className="row align-items-center flex flex-col lg:flex-row items-center gap-16">
             <div className="col-lg-6 col-md-12 w-full lg:w-1/2 mb-12 lg:mb-0">
               <div className="about-img">
                 <img 
