@@ -4,6 +4,9 @@ import DiscoverSection from '../components/Discoversection'
 import Homeoffermenu from '../components/Homeoffermenu'
 import Homefooditem from '../components/Homefooditem'
 import Homeabout from '../components/Homeabout'
+import Hometablebook from '../components/Hometablebook'
+import HomeCard from '../components/HomeCard'
+
 
 
 function Home() {
@@ -14,6 +17,10 @@ function Home() {
       <Homeoffermenu/>
       <Homefooditem/>
       <Homeabout/>
+      <Hometablebook/>
+      <HomeCard/>
+      
+      
       
     </div>
   )
