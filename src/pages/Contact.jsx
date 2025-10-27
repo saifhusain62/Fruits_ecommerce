@@ -1,10 +1,13 @@
 import React from 'react'
+import ContactPage from '../components/ContactPage'
+import Contacthero from '../components/Contacthero'
+
 
 function Contact() {
   return (
     <div>
-      This is Contact page
-      <p>Here I am</p>
+      <Contacthero/>
+     <ContactPage/>
     </div>
   )
 }
