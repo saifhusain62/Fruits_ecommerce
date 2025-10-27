@@ -1,10 +1,15 @@
 import React from 'react'
+import Homeoffermenu from '../components/Homeoffermenu'
+import Homefooditem from '../components/Homefooditem'
+import MenuContact from '../components/MenuContact'
 
 function Menu() {
   return (
     <div>
-      This is Menu Page
-      <h1>Hello dear</h1>
+      <Homeoffermenu/>
+     <Homefooditem/>
+     <MenuContact/>
+  
     </div>
   )
 }
