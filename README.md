@@ -1,3 +1,33 @@
+🥭 Fresh_Fruits Shop 🍓
+
+A modern and responsive fruit e-commerce web app built as a team project using React, Tailwind CSS, Redux, and React Icons.
+
+Live Link : https://fruits-ecommerce-ten.vercel.app/
+
+🚀 Features
+
+Beautiful and responsive UI with Tailwind CSS
+
+Redux for global state management (cart, favorites, user data)
+
+Dynamic fruit listings with pricing and filtering
+
+Smooth user interactions and reusable components
+
+Icon-rich interface powered by React Icons
+
+🧑‍💻 Tech Stack
+
+Frontend: React, Tailwind CSS, Redux, React Icons
+
+Version Control: Git & GitHub (team collaboration)
+
+🤝 Team Collaboration
+
+This project was developed collaboratively by a frontend team, focusing on clean UI, scalable structure, and reusable code practices.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
