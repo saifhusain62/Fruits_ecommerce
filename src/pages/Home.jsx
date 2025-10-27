@@ -6,6 +6,7 @@ import Homefooditem from '../components/Homefooditem'
 import Homeabout from '../components/Homeabout'
 import Hometablebook from '../components/Hometablebook'
 import HomeCard from '../components/HomeCard'
+import Homesubscribe from '../components/Homesubscribe'
 
 
 
@@ -19,6 +20,7 @@ function Home() {
       <Homeabout/>
       <Hometablebook/>
       <HomeCard/>
+      <Homesubscribe/>
       
       
       
