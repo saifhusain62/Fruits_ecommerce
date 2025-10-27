@@ -3,6 +3,7 @@ import HeroSection from '../components/Heromain'
 import DiscoverSection from '../components/Discoversection'
 import Homeoffermenu from '../components/Homeoffermenu'
 import Homefooditem from '../components/Homefooditem'
+import Homeabout from '../components/Homeabout'
 
 
 function Home() {
@@ -12,6 +13,7 @@ function Home() {
       <DiscoverSection/>
       <Homeoffermenu/>
       <Homefooditem/>
+      <Homeabout/>
       
     </div>
   )
